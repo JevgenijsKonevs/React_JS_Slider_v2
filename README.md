@@ -20,7 +20,7 @@ In the project directory, you can run:
 
 ## Installing dependencies
 
-• npm i
+• ####npm i
 
 ### Run application
 
