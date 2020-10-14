@@ -26,7 +26,7 @@ In the project directory, you can run:
 
 #### npm start
 Runs the app in the development mode.<br />
-In order to view it open your browser and go to http://localhost:3000.
+In order to view it open your browser and go to http://localhost:3000.</br>
 :3000 is the default port, but it could be different on your PC.
 
 
