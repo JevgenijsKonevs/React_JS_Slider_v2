@@ -27,8 +27,9 @@ In the project directory, you can run:
 #### npm start
 Runs the app in the development mode.<br />
 In order to view it open your browser and go to http://localhost:3000.</br>
-:3000 is the default port, but it could be different on your PC.
+"3000" is the default port, but it could be different on your PC.
 
 
 The page will automatically reload if you make edits.<br />
 You will also see any lint errors in the console.
+https://github.com/JevgenijsKonevs/React_JS_Slider - is the same version, but created by CRA (create react app). Slider_V2 is created with custom Webpack.config
