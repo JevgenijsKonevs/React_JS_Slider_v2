@@ -31,5 +31,5 @@ In order to view it open your browser and go to http://localhost:3000.</br>
 
 
 The page will automatically reload if you make edits.<br />
-You will also see any lint errors in the console.
+You will also see any lint errors in the console.</br>
 https://github.com/JevgenijsKonevs/React_JS_Slider - is the same version, but created by CRA (create react app). Slider_V2 is created with custom Webpack.config
