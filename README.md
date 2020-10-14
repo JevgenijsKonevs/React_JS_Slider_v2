@@ -22,7 +22,7 @@ In the project directory, you can run:
 
 #### npm i
 
-### Run application
+## Run application
 
 #### npm start
 Runs the app in the development mode.<br />
